@@ -9,7 +9,7 @@ const SiteHelp = {
     'attendance': '📋 **Attendance** — Daily attendance tracking. Mark students present/absent/late. View attendance reports and trends. Supports bulk marking.',
     'results': '📊 **Results / Mark Entry** — **WORKFLOW:** 1) Teachers enter marks in Subject Broadsheet (per subject). 2) Class Broadsheet auto-populates (all subjects × all students). 3) Report Cards auto-generate. Enter marks ONCE — no re-entry needed!',
     'academic-records': '📈 **Academic Records** — View class broadsheets (all students × all subjects) and subject broadsheets (one subject, all students). Auto-calculates totals, averages, positions, grades.',
-    'report-cards': '🎓 **Report Cards** — Auto-generated student report cards: all subjects, grades, positions, affective/psychomotor traits, teacher comments, school stamp and signatures. Print one student, or use **🖨️ Bulk Print ALL Report Cards (per class)** — the whole class builds with a progress bar and prints one-per-page in a single job (or Save as PDF).',
+    'report-cards': '🎓 **Report Cards** — Auto-generated student report cards. Shows all subjects, grades, positions, affective/psychomotor traits, teacher comments. Printable with school stamp.',
     'timetable': '🗓️ **Timetable** — Class and teacher timetables. Conflict detection. Print schedules.',
     'fees': '💰 **School Fees** — Fee structure per class. Track payments, balances. Generate e-receipts. View fee reports.',
     'payment-history': '🧾 **Payment History** — Student payment records. Print e-receipts with school logo and authorized signature.',
